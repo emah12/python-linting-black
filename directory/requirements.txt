@@ -1,0 +1,4 @@
+pandas==0.25.3
+numpy==1.17.4
+aiohttp==3.6.2
+requests==2.22.0
